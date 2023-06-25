@@ -1,4 +1,6 @@
-✨ Scott Gleason
+# ✨ Scott Gleason
+
+** `Digital Craftsman(Developer/Creator/Teacher)` **
 
 ### Hi there 👋
 
