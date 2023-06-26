@@ -1,20 +1,12 @@
 # ✨ Scott Gleason
 
-** `Digital Craftsman(Developer/Creator/Teacher)` **
+**`Digital Craftsman(Developer/Creator/Teacher)`**
 
-### Hi there 👋
+### Aspiring Front End Web Developer
+- 🔭 these days i'm working on various kinds of projects.
+- 🌱 I’m currently learning JavaScript and Python
+- 👯 I’m looking to collaborate with people that want to change the world!
+- 💎 2023 Goals: Help local businessses with their websites and learn SEO.
+- ⚡ Fun fact: I am married with 7 children and 6 pets.
 
-<!--
-**scott-gleason/scott-gleason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
